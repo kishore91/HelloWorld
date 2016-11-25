@@ -1,0 +1,10 @@
+c:\users\u547175\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+c:\users\u547175\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe
+c:\users\u547175\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+c:\users\u547175\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache
+c:\users\u547175\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+c:\users\u547175\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.Cache
+c:\users\u547175\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\obj\Debug\ClientApplication.exe
+c:\users\u547175\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\obj\Debug\ClientApplication.pdb
+c:\users\u547175\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\obj\Debug\ClientApplication.ClientForm.resources
+C:\Users\U547175\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csproj.ResolveComReference.cache
