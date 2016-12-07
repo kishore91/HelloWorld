@@ -1,0 +1,1 @@
+https://www.asp.net/web-api/overview/error-handling/exception-handling#httperror
