@@ -1,0 +1,22 @@
+1.1	Project Purpose
+Develop a SDLC tool (SDLC Tracker) to provide a common and consistent process to guide application teams through SDLC and to provide the ability to track all SDLC work efforts to ensure compliance to the System Development Lifecycle (SDLC) and Application Lifecycle Management (ALM) Standards.
+
+The Problem of
+•	Currently PMUWS tracks all Project related work efforts.  However, there is not a tool to consistently guide and track all technology work efforts through the SDLC Lifecycle.
+•	Lack of consistent metrics across the organization for all SDLC work efforts
+•	Inability to track all SDLC work efforts makes it difficult to ensure compliance to SDLC Policy.
+
+Affects
+•	All application development teams across the Enterprise
+
+The impact of which is
+•	Inconsistencies in SDLC processes create team Member frustration and slower speed to market.
+•	Enterprise has a large, de-centralized Application Management Community which makes it difficult to govern processes and gain visibility for all SDLC work efforts.
+•	The ALM Policy compliance is difficult to track due to the lack of a common process and tool.
+
+A successful solution would include the following:
+•	A common and consistent process to guide application teams through SDLC
+•	A tool used by the Application Management community to execute across SDLC for all technology work efforts
+•	Consistent measurement of SDLC effectiveness
+•	Consistent, actionable metrics
+
