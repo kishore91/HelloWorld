@@ -1,1 +1,3 @@
 https://www.asp.net/web-api/overview/error-handling/exception-handling#httperror
+
+https://www.codeproject.com/Articles/1158439/Crud-Operation-using-Angular-JS-and-Web-API
